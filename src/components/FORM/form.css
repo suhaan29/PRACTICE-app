@@ -1,0 +1,40 @@
+.formBox {
+  width: 700px;
+ 
+  background-color: darkcyan;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.formButton {
+    width: 200px;
+    height: 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+   
+    background-color: cornflowerblue;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.formLabel {
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+}
+
+.formInput {
+    width: 500px;
+    height: 30px;
+    margin-top: 8px;
+}
